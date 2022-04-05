@@ -1,1 +1,1 @@
-# Building Websites With HTML, CSS, and JavaScript: Getting Started
+# Bethany's Pie Website: HTML, CSS, and JavaScript
